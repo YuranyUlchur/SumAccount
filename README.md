@@ -13,11 +13,11 @@ Follow these steps to set up the project in your local environment:
 
 1. Clone the repository:
 
-	https://github.com/YuranyUlchur/SumAccount.git
+	https://github.com/YuranyUlchur/Sumaccount.git
 
 2. Navigate to the project directory:
 
-  		cd SumAccount
+  		cd Sumaccount
 
 3.  Start the development server
 
